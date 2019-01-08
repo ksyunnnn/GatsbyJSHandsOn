@@ -1,2 +1,0 @@
-# GatsbyJSHandsOn
-Created with CodeSandbox
